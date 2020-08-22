@@ -1,9 +1,0 @@
-#
-# A fatal error has been detected by the Java Runtime Environment:
-#
-#  SIGSEGV (0xb) at pc=0x00007f0c4037a231, pid=31568, tid=31585
-#
-# JRE version: Java(TM) SE Runtime Environment (14.0.1+7) (build 14.0.1+7)
-# Java VM: Java HotSpot(TM) 64-Bit Server VM (14.0.1+7, mixed mode, sharing, tiered, compressed oops, g1 gc, linux-amd64)
-# Problematic frame:
-# C  [libjimage.so+0x4231]  ImageStrings::find(Endian*, char const*, int*, unsigned int)+0x71
